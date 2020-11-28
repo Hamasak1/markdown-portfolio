@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*italic test*
+_underscores work too_
+
+**bold text tutorial**
+__double underscores__
+
+_italic **bold** combination works_
